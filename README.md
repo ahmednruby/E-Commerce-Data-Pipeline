@@ -1,4 +1,4 @@
-# E-Commerce-Data-Pipeline
+# E-Commerce-Data-Pipeline (still working on it)
 A complete data engineering and warehousing solution developed as a graduation project at the Information Technology Institute (ITI).  
 The project demonstrates modern data engineering practices by combining batch and streaming pipelines to process and analyze transactional and user activity data.
 
