@@ -2,6 +2,8 @@
 A complete data engineering and warehousing solution developed as a graduation project at the Information Technology Institute (ITI).  
 The project demonstrates modern data engineering practices by combining batch and streaming pipelines to process and analyze transactional and user activity data.
 
+![Image](https://github.com/user-attachments/assets/b73a8664-5111-4115-bed3-2ee90bf8e117)
+
 Business Objective
 
 The goal of this project is to enable data-driven decision-making by transforming raw sales and user activity data into clean, modeled datasets ready for analysis.  
